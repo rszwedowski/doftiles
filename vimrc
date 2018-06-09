@@ -18,6 +18,8 @@ set number relativenumber
 " switch syntax highlighting on
 syntax on
 
+colorscheme pablo
+
 set encoding=utf8
 
 set number
