@@ -46,6 +46,8 @@ Plug 'kien/ctrlp.vim' " fuzzy find files
 Plug 'sirver/ultisnips' "snippets for Python
 Plug 'vim-scripts/taglist.vim'
 Plug 'tpope/vim-surround' "ultimate plugin for surroundings
+Plug 'ekalinin/dockerfile.vim'
+
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
