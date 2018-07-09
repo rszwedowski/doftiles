@@ -44,7 +44,7 @@ Plug 'tpope/vim-fugitive' "git plugin
 Plug 'scrooloose/nerdtree' "fancy file explorer
 Plug 'kien/ctrlp.vim' " fuzzy find files
 Plug 'sirver/ultisnips' "snippets for Python
-Plug 'vim-scripts/taglist.vim'
+" Plug 'vim-scripts/taglist.vim'
 Plug 'tpope/vim-surround' "ultimate plugin for surroundings
 Plug 'ekalinin/dockerfile.vim'
 
